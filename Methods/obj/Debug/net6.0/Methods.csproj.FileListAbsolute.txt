@@ -1,0 +1,15 @@
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Amr Yousry\Desktop\repos\Methods\Methods\Methods\obj\Debug\net6.0\ref\Methods.dll
